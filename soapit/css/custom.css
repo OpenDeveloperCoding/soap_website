@@ -1,0 +1,40 @@
+/*-------------------navigation bar-----------------------*/
+.navbar-brand img {
+  height: 70px;
+  padding-left: 50px;
+  padding-right: 10px;
+}
+.navbar-nav li {
+  margin: 0 10px;
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: black !important;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+nav {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f2f6f8+0,d8e1e7+94,e0eff9+100 */
+  background: rgb(242, 246, 248); /* Old browsers */
+  background: -moz-linear-gradient(
+    top,
+    rgba(242, 246, 248, 1) 0%,
+    rgba(216, 225, 231, 1) 94%,
+    rgba(224, 239, 249, 1) 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    rgba(242, 246, 248, 1) 0%,
+    rgba(216, 225, 231, 1) 94%,
+    rgba(224, 239, 249, 1) 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    rgba(242, 246, 248, 1) 0%,
+    rgba(216, 225, 231, 1) 94%,
+    rgba(224, 239, 249, 1) 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=0 ); /* IE6-9 */
+
+  outline: 10px ridge #9b70ff;
+}

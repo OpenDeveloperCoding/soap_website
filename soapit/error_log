@@ -1,0 +1,23 @@
+[26-Aug-2017 10:09:29 UTC] PHP Fatal error:  Cannot use object of type ClientModel as array in /home/sachukale/public_html/BookMe/application/models/ClientModel.php on line 41
+[11-Oct-2017 12:30:11 UTC] PHP Fatal error:  Class 'ClientAvailabilityModel' not found in /home/sachukale/public_html/BookMe/application/controllers/JSONController.php on line 31
+[11-Oct-2017 12:33:03 UTC] PHP Fatal error:  Class 'ClientAvailabilityModel' not found in /home/sachukale/public_html/BookMe/application/controllers/JSONController.php on line 31
+[11-Oct-2017 12:33:27 UTC] PHP Fatal error:  Class 'ClientAvailabilityModel' not found in /home/sachukale/public_html/BookMe/application/controllers/JSONController.php on line 31
+[29-Oct-2017 14:48:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 93
+[30-Oct-2017 15:36:15 UTC] PHP Fatal error:  Call to undefined function isnumeric() in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 114
+[30-Oct-2017 15:36:31 UTC] PHP Fatal error:  Call to undefined function isnumeric() in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 114
+[03-Nov-2017 18:01:26 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 156
+[03-Nov-2017 18:03:34 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 156
+[03-Nov-2017 18:22:23 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:22:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:23:33 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:26:18 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:27:47 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:28:47 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:29:57 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:31:41 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:38:57 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:42:11 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[03-Nov-2017 18:44:07 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[04-Nov-2017 10:09:18 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[04-Nov-2017 10:10:15 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
+[04-Nov-2017 10:18:17 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sachukale/public_html/BookMe/application/models/BookingModel.php on line 159
