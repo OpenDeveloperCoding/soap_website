@@ -2,10 +2,10 @@
 
 ### ADMIN LOGIN
 
-USERNAME: admin@gmail.com__
+USERNAME: admin@gmail.com <br />
 PASSWORD: admin
 
 ### USER LOGIN
 
-USERNAME: shivam@gmail.com__
+USERNAME: shivam@gmail.com <br />
 PASSWORD: shivam
