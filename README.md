@@ -1,5 +1,11 @@
 # SOAPIT WEBSITE
 
-### ADMIN LOGIN 'admin@gmail.com', 'admin'
+### ADMIN LOGIN
 
-### USER LOGIN 'shivam@gmail.com', 'shivam'
+USERNAME: admin@gmail.com
+PASSWORD: admin
+
+### USER LOGIN
+
+USERNAME: shivam@gmail.com
+PASSWORD: shivam
